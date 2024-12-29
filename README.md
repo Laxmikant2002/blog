@@ -25,10 +25,4 @@ $ npm install
 $ npm run dev
 ```
 
-# NodeJs, Express, EJS & MongoDB Blog - CRUD
-
-
-## Requirements
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/) (Free Cluster)
 
