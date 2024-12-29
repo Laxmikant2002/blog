@@ -27,11 +27,8 @@ $ npm run dev
 
 # NodeJs, Express, EJS & MongoDB Blog - CRUD
 
-![Blog Preview](readme-image.jpg?raw=true)
 
 ## Requirements
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/) (Free Cluster)
 
-### Donations
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
